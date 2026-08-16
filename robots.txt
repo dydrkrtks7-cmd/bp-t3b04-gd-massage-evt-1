@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mullae-shirts-note.best-hapjeong-pub.xyz/sitemap.xml
+Sitemap: https://mullae-shirts-note.best-hapjeong-pub.xyz/sitemap-pages.xml
